@@ -11,3 +11,5 @@ In this algorithm the input will the amount that needs to be changed and the den
 3. Now go in the folder/directory where the coin change algorithm is there and run the algorithm by typing python CoinChange.py. This will not give any output as I have not printed out anything. To get the output uncomment line 16-22.
 
 4. There is also a test file included which you can run by typing python CoinChangeTest.py. This will run all the tests, you can also add new tests if you want. 
+
+If you find any bugs or want to contribute feel free to open a new pull request.
